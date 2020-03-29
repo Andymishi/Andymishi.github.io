@@ -7,10 +7,10 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: 五级程序员走起！！！
-description:能够熟练应用工程的知识和技能解决问题，独立完成所分配的工作，而不需要他人指导，就算是一个合格的五级工程师了。————吴军
+description: 能够熟练应用工程的知识和技能解决问题，独立完成所分配的工作，而不需要他人指导，就算是一个合格的五级工程师了。————吴军
 
 # Email and twitter are optional:
-email:247351017@qq.com
+email: 247351017@qq.com
 
 # Set this to true to get LaTeX math equation support
 use_math:
