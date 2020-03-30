@@ -1,10 +1,12 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+**欢迎来到我的博客，家小屋陋，随遇而安。包子有肉不在褶子上。广厦万间，先从这一铲子起。**
 
-![Image of fast.ai logo](images/logo.png)
 
-## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
-## This is my blog.
+这是我PS的练习作，请各位赏脸：
 
-## 学习github
+![Image](images/home.png)
+
+
+
+
+
